@@ -4,8 +4,8 @@ A fully responsive personal portfolio website built using HTML, CSS, and JavaScr
 
 🚀 Live Demo
 
-🔗 [Add Your Live Link Here]
-🔗 [Add GitHub Repo Link Here]
+🔗 [https://portfolio-caxh8wa4p-piyush123710s-projects.vercel.app/]
+🔗 [https://github.com/piyush123710/PORTFOLIO]
 
 📖 About The Project
 
